@@ -1,0 +1,15 @@
+body{
+    background-image: url("todo.jpg");
+    background-repeat: no-repeat;
+    background-size: 1537px 715px;
+    width: 100%;
+    max-width: 100%; height: auto;
+}
+.form-group{
+    color: wheat;
+}
+#add{
+    color: white;
+    
+}   
+
